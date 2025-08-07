@@ -1,2 +1,3 @@
 # git-tutorial
-This is the tutorial
+This is the tutorial.
+A lot of new changes here
